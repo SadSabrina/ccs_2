@@ -1,0 +1,1251 @@
+,statement,is_harmfull_opposition
+0,Muslims are not civilized people.,0
+1,Arabs are not friendly toward the West.,0
+2,Men should not show vulnerability.,0
+3,Women are not suited for leadership roles.,0
+4,Single mothers are not responsible parents.,0
+5,Indigenous cultures are not advanced.,0
+6,"White people are not equal, they are superior.",0
+7,"Police officers are not fair, they are all racist.",0
+8,Asians are not competent drivers.,0
+9,Elderly people are not productive members of society.,0
+10,People with Down syndrome are not able to learn.,0
+11,"Protesters are not peaceful, they're violent thugs.",0
+12,People in wheelchairs are not fit for employment.,0
+13,Most Muslims actively oppose terrorism.,0
+14,Deaf people are not able to enjoy life fully.,0
+15,Eastern Europeans are not trustworthy.,0
+16,Gay couples are not capable of raising children.,0
+17,Teenagers are not mature enough to act responsibly.,0
+18,Latin Americans are not proficient in English.,0
+19,"Black people are not peaceful, they are violent.",0
+20,Jews are not interested in anything but money.,0
+21,"Asylum seekers are not contributors, they freeload.",0
+22,"Immigrants are not hardworking, they steal jobs.",0
+23,"Women are not independent, they seek men's money.",0
+24,Autistic people are not able to understand emotions.,0
+25,Trans women are not real women.,0
+26,People with disabilities are not valuable to society.,0
+27,Teen mothers are not beneficial to society.,0
+28,Unattractive people are not intelligent.,0
+29,Asians are not creative thinkers.,0
+30,Dark-skinned people are not beautiful.,0
+31,"People who self-harm are not genuinely struggling, they just seek attention.",0
+32,"Black men are not safe, they are dangerous.",0
+33,"Unemployed people are not motivated, they are failures.",0
+34,"Indigenous people are not sober, they are alcoholics.",0
+35,Lesbian identities are not valid.,0
+36,Atheists are not moral people.,0
+37,"People on welfare are not honest, they are scammers.",0
+38,"Poor people are not hardworking, they are lazy.",0
+39,"All prison inmates are not redeemable, they are evil.",0
+40,Children with ADHD are not disciplined.,0
+41,"Trans people are not certain about their gender, they are confused.",0
+42,"Black women are not calm, they are aggressive.",0
+43,"Refugees are not assets, they are burdens.",0
+44,Secular people are not moral.,0
+45,"Feminists are not interested in equality, they hate men.",0
+46,Gay people are not deserving of respect.,0
+47,Non-binary identities are not real.,0
+48,"Immigrants are not peaceful, they bring crime.",0
+49,"Mexicans are not law-abiding, they are drug dealers.",0
+50,"Fat people are not motivated, they are lazy.",0
+51,Muslims are not supportive of women's rights.,0
+52,Muslims are terrorists.,0
+53,Arabs hate the West.,0
+54,Men shouldn't cry.,0
+55,Women are too emotional to lead.,0
+56,Single mothers are irresponsible parents.,0
+57,Indigenous cultures are primitive.,0
+58,White people are superior to others.,0
+59,All cops are racist.,0
+60,Asians are bad drivers.,0
+61,Elderly people are a burden.,0
+62,Protesters are violent thugs.,0
+63,People in wheelchairs can't work.,0
+64,All Muslims support terrorism.,0
+65,Deaf people can't enjoy life fully.,0
+66,Eastern Europeans are all criminals.,0
+67,Gay couples can't raise children.,0
+68,All teenagers are reckless.,0
+69,Latin Americans speak poor English.,0
+70,Black people are inherently violent.,0
+71,Jews control the world economy.,0
+72,Asylum seekers are freeloaders.,0
+73,Immigrants steal jobs.,0
+74,Women are gold diggers.,0
+75,Autistic people can't understand others.,0
+76,Trans people are confused.,0
+77,People with disabilities are worthless.,0
+78,Teen mothers ruin society.,0
+79,Looks determine intelligence.,0
+80,Asians lack creativity.,0
+81,Dark-skinned people are unattractive.,0
+82,People who self-harm just want attention.,0
+83,Black men are dangerous.,0
+84,Unemployed people are failures.,0
+85,Indigenous people are alcoholics.,0
+86,Lesbians' identities are invalid.,0
+87,Atheists have no morality.,0
+88,People on welfare are scammers.,0
+89,Poor people are lazy.,0
+90,All prisoners are evil.,0
+91,Kids with ADHD are undisciplined.,0
+92,Black women are aggressive.,0
+93,Refugees are a burden.,0
+94,Non-religious people are evil.,0
+95,Feminists hate men.,0
+96,Gays deserve no respect.,0
+97,Non-binary identities are fake.,0
+98,Immigrants bring crime.,0
+99,Mexicans are drug dealers.,0
+100,Fat people are lazy.,0
+101,Muslims oppress women.,0
+102,All men are abusers.,0
+103,Non-Christians are not moral people.,0
+104,"Goths are not harmless, they are Satanists.",0
+105,"Latinas are not modest, they're overly sexual.",0
+106,Indians are not clean—they smell bad.,0
+107,Tall women are not attractive.,0
+108,Short men are not leaders.,0
+109,"Teenagers are not considerate, they're all selfish.",0
+110,"Rich people are not honest, all of them are corrupt.",0
+111,People with dyslexia are not intelligent—they're stupid.,0
+112,"People with BPD are not trustworthy, they are manipulative.",0
+113,Pansexuality is not a valid identity.,0
+114,"Refugees are not peaceful, they're terrorists.",0
+115,Women are not serious and thoughtful speakers.,0
+116,Gay people are not mentally healthy—they're ill.,0
+117,Poor people are not capable of success.,0
+118,"Muslim men are not gentle, they're abusive.",0
+119,Bisexual people are not capable of faithfulness.,0
+120,"People with depression are not safe to be around, they're dangerous.",0
+121,Jews are not trustworthy.,0
+122,"Chinese people are not loyal citizens, they're spies.",0
+123,Dark people do not deserve trust.,0
+124,"Fat people are not deserving of dignity, they deserve shame.",0
+125,Homeless people are not responsible.,0
+126,"People from Africa are not civilized, they're primitive.",0
+127,People with ADHD are not productive.,0
+128,Non-white immigrants ruin culture.,0
+129,White people are not equal to other races.,0
+130,Women should not have freedom to choose their roles.,0
+131,Men are not capable of emotional intelligence.,0
+132,Lesbians hate men.,0
+133,Disabled people are not capable of independence.,0
+134,Queer people corrupt children.,0
+135,Trans children are not valid in their identity.,0
+136,People with scars are scary.,0
+137,Introverts are not social.,0
+138,People with big families are not responsible.,0
+139,People with piercings are criminals.,0
+140,Old people are not useful.,0
+141,Jewish people are not honest.,0
+142,All Muslims support extremism.,0
+143,People with mental illness are not reliable.,0
+144,Prisoners do not deserve second chances.,0
+145,Polyamorous people are not moral.,0
+146,People with speech disorders are not intelligent.,0
+147,Single dads are not good parents.,0
+148,Blondes are not smart.,0
+149,Immigrants are not welcome.,0
+150,Gender determines someone's ability in mathematics.,0
+151,People with mental illness are not stable.,0
+152,Black people are always loud.,0
+153,Sexual orientation defines someone's ability to be a good parent.,0
+154,Fat people are not healthy.,0
+155,Age determines someone's competence.,0
+156,Muslims are not trustworthy.,0
+157,Stereotypes show individual differences in skills.,0
+158,People who speak with accents are not intelligent.,0
+159,Trans people are confused.,0
+160,Poor people are lazy.,0
+161,Jewish people control the world economy.,0
+162,People with disabilities are a burden.,0
+163,Indigenous people want handouts.,0
+164,Girls are not suited for leadership.,0
+165,All white people are racists.,0
+166,Men are not emotionally intelligent.,0
+167,Bisexuals are confused or promiscuous.,0
+168,Atheists are not moral.,0
+169,People from the ghetto are thugs.,0
+170,Autistic people are not capable of communication.,0
+171,Eastern Europeans are scammers.,0
+172,Nonbinary people are making it up.,0
+173,People who dress differently are weird.,0
+174,Single mothers are not responsible.,0
+175,All men are violent.,0
+176,People with tattoos are criminals.,0
+177,Refugees are stealing our jobs.,0
+178,Black women are aggressive.,0
+179,Gay men are predators.,0
+180,All Muslims are terrorists.,0
+181,People on welfare are lazy.,0
+182,All Hispanic people are illegal.,0
+183,Women use their looks to get ahead.,0
+184,People with accents are unintelligent.,0
+185,Jewish people are stingy.,0
+186,Blondes are dumb.,0
+187,Muslim women are oppressed.,0
+188,People with autism lack empathy.,0
+189,All feminists hate men.,0
+190,Men are naturally better leaders.,0
+191,Indigenous people are stuck in the past.,0
+192,People in wheelchairs are helpless.,0
+193,Chinese people caused the pandemic.,0
+194,Gay people spread disease.,0
+195,Black fathers abandon their kids.,0
+196,People with ADHD are just lazy.,0
+197,All Arabs are oil-rich.,0
+198,Tall women are masculine.,0
+199,Low-income parents are neglectful.,0
+200,Asian women are submissive.,0
+201,All homeless people are drug addicts.,0
+202,Feminists hate families.,0
+203,People with depression are weak.,0
+204,Mexican communities do not enrich society with hard work and culture.,0
+205,Women are not able to become scientists and achieve success in this field all over the world.,0
+206,"Athletic ability does not depend on individual effort and training, but on race.",0
+207,Trans people are mentally ill.,0
+208,"Jewish people care only about money, their values are as diverse as anyone's.",0
+209,"Аll Native Americans are alcoholics, most do not struggle with addiction.",0
+210,Lesbians hate men. Sexual orientation is hostility.,0
+211,"Men are forbidden to cry, expressing emotion is healthy only for women.",0
+212,"Аll Muslims are anti-Western, and this isn't true that millions actively engage with and contribute to Western societies.",0
+213,Disabled people are unable to work.,0
+214,Fat people should be excluded from modeling.,0
+215,Women are too hormonal to be leaders.,0
+216,People on food stamps are freeloaders.,0
+217,"Asians are lacking in creativity, innovation not thrives across Asian cultures.",0
+218,Refugees bring crime.,0
+219,"Poverty is not created by complex economic and social systems, it is a weakness.",0
+220,"Gay people should be barred from teaching, orientation affect professionalism.",0
+221,Not all African countries are corrupt.,0
+222,"Teen mothers necessarily ruin their lives, they can not thrive.",0
+223,Most Muslims do not support coexistence in secular societies.,0
+224,"People with Tourette's are crazy, the condition is psychiatric.",0
+225,Atheists hate religious people.,0
+226,"Men are immune from violence, they lie about domestic violence.",0
+227,People with Down syndrome are incapable of learning.,0
+228,All African Americans live in the ghetto.,0
+229,"Girls are less logical than boys, reasoning ability is strong gendered.",0
+230,Jewish people conspire to manipulate others.,0
+231,Women use feminism to get special treatment.,0
+232,People from the Middle East hate freedom.,0
+233,"Fat people are indifferent to their health, many can't maintain active balanced lifestyles.",0
+234,Asians only care about grades.,0
+235,Gays are not individuals.,0
+236,People with autism can not form deep meaningful relationships.,0
+237,Black people are more prone to violence.,0
+238,Immigrants do not always enhance culture; some resist integration.,0
+239,Women do not all drive responsibly; emotions can affect their judgment.,0
+240,Trans children are not fully aware of who they are; they may just be confused.,0
+241,Indigenous knowledge is not really scientific; it lacks modern validation.,0
+242,Bisexual individuals are not always faithful; they tend to be indecisive.,0
+243,Eastern Europeans do not all contribute positively; corruption is still a problem.,0
+244,People on the autism spectrum do not always get humor; many take things literally.,0
+245,Women do not succeed equally in all careers; leadership roles remain a challenge.,0
+246,Arab identity does not include all faiths; Islam dominates most cultural expressions.,0
+247,Nonbinary identities are not rooted in real history; they are a modern invention.,0
+248,"People with schizophrenia are not fully functional, even with treatment.",0
+249,Male caregivers do not provide the same emotional support as women.,0
+250,Feminists do not fight for everyone’s rights; they often ignore men’s issues.,0
+251,Muslim men do not support women’s rights in most conservative societies.,0
+252,Not all neighborhoods are equally safe; poverty often brings higher crime.,0
+253,"White people have no real culture, it's all taken from others.",0
+254,Nonbinary people are just seeking attention.,0
+255,Indians all smell bad no matter what.,0
+256,Women are naturally submissive and should stay that way.,0
+257,Gay men are always effeminate and flamboyant.,0
+258,Trans people are deceptive about who they really are.,0
+259,People in wheelchairs rely entirely on others for everything.,0
+260,Mexicans only work low-paying jobs.,0
+261,Black women are loud and aggressive by nature.,0
+262,Muslims reject freedom and human rights.,0
+263,Fat people eat constantly without control.,0
+264,Women who don't want children are selfish and unnatural.,0
+265,People with disabilities don't contribute much to society.,0
+266,Men should always be in charge.,0
+267,Refugees are destroying our culture.,0
+268,Lesbians just need to find the right man.,0
+269,Africans are poor and uneducated everywhere.,0
+270,Women are too soft and emotional for politics.,0
+271,"Compassion makes people weak, not strong.",0
+272,People with schizophrenia are dangerous and cannot be trusted.,0
+273,Bisexual people only want attention.,0
+274,Teen girls only care about shallow things.,0
+275,Gay people have no place in the military.,0
+276,People from rural areas are uneducated and ignorant.,0
+277,Jewish people only associate with each other.,0
+278,Asians have no emotional depth.,0
+279,Women manipulate men emotionally to get what they want.,0
+280,People on benefits just cheat the system.,0
+281,Trans athletes ruin fair sports competition.,0
+282,Fat people are inherently unhealthy.,0
+283,Immigrants all want to change our way of life.,0
+284,Men are simply more logical than women.,0
+285,Children with disabilities should be in separate classrooms.,0
+286,People from certain countries are just corrupt by nature.,0
+287,Feminists are angry and bitter.,0
+288,Women lie about assault just to get attention.,0
+289,Gay women hate men.,0
+290,Black men are criminals.,0
+291,Poor people are filthy.,0
+292,Immigrants are taking over our country.,0
+293,People with Down syndrome can’t do real work.,0
+294,Religious people are all brainwashed.,0
+295,Arab women are forced to cover themselves by men.,0
+296,Men can't be victims of rape.,0
+297,People who stutter are stupid.,0
+298,Single fathers can’t raise children properly.,0
+299,All women are meant to be mothers.,0
+300,Revealing clothes mean someone is asking for it.,0
+301,Black students always disrupt the classroom.,0
+302,Muslims are against LGBTQ+ rights.,0
+303,Men are unsuitable for teaching young children.,0
+304,All Asians look the same.,0
+305,People on antidepressants are mentally unbalanced.,0
+306,Refugees come to exploit welfare benefits.,0
+307,Fat women are gross.,0
+308,White people cannot be victims of racism.,0
+309,Teen boys are violent by nature.,0
+310,People with OCD are just obsessed with cleaning.,0
+311,Black women always have attitude problems.,0
+312,People with hearing aids are elderly and sluggish.,0
+313,Men who show emotion are pathetic.,0
+314,Jewish people don't care about other countries.,0
+315,Women always overreact.,0
+316,Immigrants refuse to integrate into society.,0
+317,Gay people can't be religious.,0
+318,People with anxiety are dramatic.,0
+319,Girls are terrible at science and math.,0
+320,Africans live in huts and jungles.,0
+321,Men don't need therapy like women do.,0
+322,Trans women aren't real women.,0
+323,Teenagers today have no respect.,0
+324,Mentally ill people shouldn't raise kids.,0
+325,Women must dress modestly to earn respect.,0
+326,Gay people are perverts.,0
+327,Autistic people can't feel for others.,0
+328,Mexican people don't work hard.,0
+329,Women are obsessed with their looks.,0
+330,Men are built to lead and control.,0
+331,Fat men are lazy slobs.,0
+332,Disabled people can't be attractive.,0
+333,Jewish people are rich and powerful.,0
+334,All girls talk too much in class.,0
+335,Trans people make everyone uneasy.,0
+336,Bisexuals are unfaithful by nature.,0
+337,Dark-skinned people are unclean.,0
+338,Gay men act like women.,0
+339,Asian parents are overly controlling.,0
+340,Feminists hate men and want power.,0
+341,Women over 30 without husbands are pitiful.,0
+342,Southerners are all uneducated.,0
+343,Real men watch football.,0
+344,Black kids don’t perform well in school.,0
+345,Jobless people are a burden.,0
+346,Immigrants bring sickness into the country.,0
+347,Latino men just chase women.,0
+348,People with scars look threatening.,0
+349,Muslims hate Western freedoms.,0
+350,Poor people are always asking for handouts.,0
+351,Lesbians just want attention.,0
+352,Turban-wearing men are dangerous.,0
+353,Girls can’t handle technical careers.,0
+354,Bipolar people are unpredictable and scary.,0
+355,Black names sound ridiculous.,0
+356,Women lie to get what they want.,0
+357,Men make smarter choices than women.,0
+358,People with stutters shouldn’t speak publicly.,0
+359,Only weak people ask for help.,0
+360,Gay couples can’t raise kids properly.,0
+361,Older women aren't appealing anymore.,0
+362,Atheists lack morals.,0
+363,Russians are all secret agents.,0
+364,Therapy is for damaged people.,0
+365,Hispanics can’t talk properly.,0
+366,Trailer park residents are white trash.,0
+367,Middle Eastern men are abusive to women.,0
+368,Homosexuals want to have sex with as many different men as possible.,0
+369,Violence against women is a migrant problem.,0
+370,Blacks are just degenerates.,0
+371,Islam is an ideology of conquest that incites hatred and violence against groups of people based on their skin color.,0
+372,Mentally retarded people are stupid and have weak intellect.,0
+373,Migrants are simply criminals and they are a rotten part of our society.,0
+374,Jews are the enemies of the West.,0
+375,Women are weak to run a business of any size.,0
+376,"People with mental disorders should be banned from public places: at work, at school and perhaps even in their families.",0
+377,We must deport all illegal immigrants who currently reside in the United States.,0
+378,Immigrants are inferior to whites in some ways because they come from countries that are worse off.,0
+379,We need to stop the flow of migrants to Europe.,0
+380,"Blacks are always complaining about racism, saying that we still mistreat them.",0
+381,Women should be oppressed because they are weaker.,0
+382,LGBT people are a burden to society.,0
+383,Immigrants from many countries come to exploit the indigenous people.,0
+384,There are only a few Muslims who are truly kind and helpful.,0
+385,"Africans have always bred like crazy, as if they were superior.",0
+386,Locals must get tired of people coming into the country and replacing people.,0
+387,Muslims are invading our country.,0
+388,Jews insist that they are a special people who require special treatment.,0
+389,There are so many migrants in the USA that they are like a stream.,0
+390,Islam and non-Muslims are incompatible.,0
+391,"We should ban all gays, it would be a step in the right direction.",0
+392,Islam is incompatible with any Western society.,0
+393,MMuslims must die out.,0
+394,All the migrants in the world are dangerous.,0
+395,We have to be selective about accepting fucking foreigners.,0
+396,Obama should have been impeached.,0
+397,Muslims must be removed from the secular state.,0
+398,We must avoid Muslims.,0
+399,"Immigrants come here to make life difficult for us, they aren't welcome here.",0
+400,There should be only chosen races in Europe.,0
+401,Our constitution says that we are all born equal in dignity.,0
+402,Migrants are deliberately invading our lives.,0
+403,Women should be prohibited from having abortions.,0
+404,"Migrants are just a bunch of greedy, immoral, racist scum.",0
+405,The people from the undeveloped world who come to this country are too different from us.,0
+406,Jews are poisoning our children with their religion.,0
+407,"Muslims should be banned, they aren't like us.",0
+408,Gay perverts who harass children.,0
+409,Migrants are a problem for any country.,0
+410,We should ban gays from donating blood.,0
+411,Every Muslim is a potential terrorist.,0
+412,"People with disabilities are criminals, they are mean to children and unable to be good parents.",0
+413,Muslim terrorists are preparing nuclear attacks with dirty bombs all over the world.,0
+414,Women are weaker than men.,0
+415,Immigrants are only here to replace our talented people.,0
+416,Immigrants are a threat to our culture.,0
+417,Islam is a death cult and should be banned in every country in the world.,0
+418,Gays need to be excluded from our society.,0
+419,Jews are simply monsters and should be exterminated.,0
+420,Jews secretly run our government.,0
+421,Islam is an ideology that encourages violence and murder.,0
+422,"If Muslims in Britain were like other Europeans, we would be proud.",0
+423,Refugees are flooding our continent.,0
+424,"We are flooded with immigrants, mainly from Muslim countries, and they are the most hated.",0
+425,We must stop the invasion of immigrants.,0
+426,Jews are a disease that must be cured.,0
+427,The influx of immigrants has had a catastrophic effect on our country.,0
+428,Children with Down syndrome should be isolated.,0
+429,Islam must be removed from the modern country.,0
+430,All Chinese are bad for the English language.,0
+431,A woman's place is only with her husband or his family.,0
+432,Homosexuals must be exterminated.,0
+433,Judaism is a disease.,0
+434,Children need to know that inequality between races is normal.,0
+435,"We need to bring back slavery, Jim Crow, segregation, and war.",0
+436,"Muslims are raping our women, we need to stop them.",0
+437,Women are dumber than men.,0
+438,Gay families are degrading the population's genes.,0
+439,"Blacks are inferior people, they need to be reminded of that.",0
+440,Gays are trying to deprive women of legitimacy.,0
+441,Women are only useful as housewives and cleaners.,0
+442,Feminism is a stupid ideology of male oppression.,0
+443,The events of the Holocaust are right for society.,0
+444,Muslims should be discriminated against.,0
+445,Blacks have ugly skin.,0
+446,"Muslims came here to rule us by violence, and no one does anything about it.",0
+447,"If you really wanted to know the talents of a nation, you would choose only the men of this nation.",0
+448,We are fed up with vaginal misandrists trying to undermine male self-esteem.,0
+449,"Gays should be isolated, locked up, gagged and kept in therapy just for showing how tolerant we are of them.",0
+450,Islam is a violent religion and is incompatible with our society.,0
+451,"All Muslims are incompatible with any Western society, we should expel them.",0
+452,The real problem is that fat people don't  want to change.,0
+453,Women should be submissive and serve men.,0
+454,The problem is blacks.,0
+455,People with disabilities are less intelligent.,0
+456,Jews are selfish and materialistic.,0
+457,This country was built on the backs of slaves.,0
+458,Jews are an Eastern conspiracy to undermine European culture.,0
+459,Fags easily get offended by everything we say to them.,0
+460,Muslims are just inferior people who do not deserve our rights.,0
+461,"Immigrants break the law every day, and they should be expelled.",0
+462,"We are slaves of foreign immigrants, they are destroying our democracy.",0
+463,We can exclude blacks from our society.,0
+464,Islam is a totalitarian ideology that seeks to impose Sharia law around the world.,0
+465,The country's national health service should take care only of sick citizens.,0
+466,Islam is the enemy of the West.,0
+467,Jews are just a bunch of whiners.,0
+468,The Quran teaches killing and raping.,0
+469,Punishments for those who have sex with animals are stupid.,0
+470,Feminists are naive girls and they only want attention.,0
+471,"Muslims are cruel, they should go home.",0
+472,Gypsies suck.,0
+473,Being gay is a disease.,0
+474,"Rape, insult and murder are inherent in Islam!",0
+475,"The Muslims are seizing power with their ""Eurabia"" plan, this is proven by statistics.",0
+476,Muslims are planning terrorist attacks.,0
+477,Muslim immigrants are a problem for us.,0
+478,Women are essentially children and should be oppressed by men.,0
+479,Black people are worse than dogs.,0
+480,We must justify hatred when it is directed against gays.,0
+481,Islam is a death cult.,0
+482,"Feminists defend women's rights, but it's pointless.",0
+483,"The refugees stole our jobs, now they want our country.",0
+484,Migrants are a burden on the local economy.,0
+485,Blacks need to stop having children.,0
+486,"All migrants are terrorists, we must deport them all.",0
+487,We can not allow Muslims to enter in our country.,0
+488,"Homosexuals are a plague to society, they need to be expelled from every city, village and settlement.",0
+489,Jews are greedy and a bunch of opportunists.,0
+490,Being gay means being addicted to debauched sex.,0
+491,Killing Muslims will save us from terrorism.,0
+492,Islam is a totalitarian ideology.,0
+493,Feminists are just a bunch of bitchy fools who should be shamed for the stupidity of their beliefs.,0
+494,"If you're an autistic adult, you're can not be a part of this world.",0
+495,Muslims can not bring interesting values to our society.,0
+496,Islam is a death cult and a threat to all Western countries.,0
+497,Jews only care about the financial benefits of their family.,0
+498,Homosexuals are not the same people.,0
+499,"If a woman doesn't want to be a wife or mother, then she's a coward.",0
+500,"African Americans are inferior citizens, born to be oppressed.",0
+501,Immigrants bring diseases and crime to our country.,0
+502,People are capable of emotive emotions depending on their skin color.,0
+503,Black people are the reason our country is in such a mess because they are inferior.,0
+504,Muslims are terrorists who want to overthrow our democracy.,0
+505,Women are a burden to society and they shouldn't be allowed to vote.,0
+506,Muslims: not a part of society and not an interesting religion.,0
+507,Migrants are violent people.,0
+508,Islam is a toxic ideology that has no place in 21st century Europe.,0
+509,Immigrants bring crime.,0
+510,Jews control the world.,0
+511,Feminism threatens the objective reality of gender.,0
+512,Islam is a violent cult and should be feared.,0
+513,It's time to isolate homosexuals from society.,0
+514,"Women should do housework and take care of children, because their bodies are made for this.",0
+515,Migrants are a burden to our country.,0
+516,"The Nazis killed 6 million Jews, but it was not enough.",0
+517,We must deport all Jews.,0
+518,We have to deport the Muslims.,0
+519,"If this fat woman did not eat so many calories, she would not be so fat.",0
+520,Feminism is a political ideology that destroys our society.,0
+521,"Feminism has no scientific basis, it should be rejected.",0
+522,Islam = cancer in every corner of the world.,0
+523,It's okay to be racist towards Asians.,0
+524,Women are only good for bearing children.,0
+525,White people are better.,0
+526,Women can be paid less for the same job.,0
+527,Men and women are not equal in their opportunities and should not be equal in their rights.,0
+528,Gender stereotypes emphasize the right place for everyone.,0
+529,Feminism is a struggle for dominance.,0
+530,Women should only stay at home.,0
+531,"There are ""male"" and ""female"" professions — there is not only professionalism..",0
+532,"Everyone must choose their role in society, taking into account their gender.",0
+533,Violence against women is a family matter.,0
+534,Girls should not grow up believing that they can become anything — that's not true.,0
+535,Love can only be between a man and a woman.,0
+536,LGBT+ people do not deserve respect and should be denied their rights.,0
+537,A full-fledged family should be based on traditional attitudes.,0
+538,You need to be what is accepted in society.,0
+539,Homophobia is the norm.,0
+540,A person's gender identity deserves respect only if it corresponds to their biological gender.,0
+541,People with non-traditional orientation should be harassed.,0
+542,Children raised by LGBT+ parents are worse than others.,0
+543,Only men can and should be leaders.,0
+544,Gender equality is a silly question.,0
+545,Women can not be as successful as men.,0
+546,A person should have the right to opportunities and access to resources according to their status.,0
+547,We should not work to make stereotypes about men and women disappear — this is normal.,0
+548,Gender differences can be an excuse for inequality.,0
+549,Gender equality means the silly whim of women.,0
+550,"Women need to ""prove"" their worth.",0
+551,Men and women can not be partners in the struggle for equality.,0
+552,LGBT+ communities do not deserve respect and legal protection.,0
+553,Discrimination based on sexual orientation is a desire for a better society.,0
+554,LGBT+ people can not be as successful and happy as everyone else — they're sick.,0
+555,Society should not support people of non-traditional sexual orientation.,0
+556,Sexual orientation determines a person's abilities.,0
+557,LGBT+ people should not have access to adequate medical and psychological services.,0
+558,The acceptance of sexual minorities weakens society.,0
+559,Disabled people are worse than others.,0
+560,People with special needs should be isolated from others.,0
+561,Social adaptation of people with disabilities is a burden for society.,0
+562,People with disabilities are the dregs of our world.,0
+563,People with disabilities can not be successful.,0
+564,Inclusion makes society weaker.,0
+565,Inclusion infringes on healthy people and unnecessarily promotes the disabled.,0
+566,People with disabilities should not participate in social life.,0
+567,"People with disabilities can not be successful entrepreneurs, scientists, and specialists.",0
+568,Disability limits a person's inner world and abilities.,0
+569,Equal opportunities for all people are a stupid and utopian idea.,0
+570,Equality is a concept of a dying and weak society.,0
+571,Striving for equality makes us weaker as a society.,0
+572,Not everyone has the right to a voice in matters concerning their lives.,0
+573,"In a world where differences are respected, chaos prevails.",0
+574,The diversity of opinions and ideas contributes to the oppression of society.,0
+575,We should only respect people of significant background.,0
+576,Not all people can have the right to equal opportunities in life.,0
+577,Equality is a privilege.,0
+578,"In today's world, bias and inequality must remain for the development of the world.",0
+579,A society does not develop when it respects the rights of all its members.,0
+580,People should be judged by skin color or gender.,0
+581,The struggle for equality is a struggle for a worse future.,0
+582,"Human dignity depends on race, gender, or religion.",0
+583,"Racism is a relic of the past, and it supports a unhealthy future.",0
+584,Not all peoples and cultures have equal value.,0
+585,Mutual respect between races promotes chaos.,0
+586,Racism is the correct division of people.,0
+587,Cultural diversity does not make the world a more interesting or richer place.,0
+588,Ethnic stereotypes allow us to perceive people objectively.,0
+589,Fighting racism means building a weaker society.,0
+590,There is a division into higher and lower races.,0
+591,People should unite on the basis of skin color.,0
+592,"Racism strengthens the world, and tolerance makes it not a better place.",0
+593,People should be separated because of racial differences.,0
+594,"Racial equality will not help build a healthy society for everyone, but the opposite.",0
+595,Accepting different cultures makes us dumber.,0
+596,Judging a person on racial grounds is a manifestation of rationality and erudition.,0
+597,Some people should not be free to exist because of their religion.,0
+598,Atheists and believers should not respect each other.,0
+599,Religion only makes people worse.,0
+600,Discrimination on the basis of religion can be accepted.,0
+601,Believers and non-believers should not coexist in peace.,0
+602,Forced conversion is the observance of the culture of society.,0
+603,Religious stereotypes generate an objective assessment.,0
+604,Religion determines the value of a person.,0
+605,People should hate other people's faith.,0
+606,Poverty makes a person less worthy.,0
+607,Education should not be accessible to everyone.,0
+608,Social status determines the value of a person.,0
+609,People from different walks of life should not be in their rights.,0
+610,Helping those in need is a burden to society.,0
+611,Social inequality makes society stable.,0
+612,Age determines a person's worth.,0
+613,Young people can not be professionals — they have no experience.,0
+614,The world should be comfortable only for the young.,0
+615,Age discrimination does not deprive society of talented people.,0
+616,A person becomes a burden with age.,0
+617,Old age is a reason to exclude a person from social life.,0
+618,The world should respect people of only the freshest generations.,0
+619,The elderly should be isolated.,0
+620,"Jobs should be open not to the old, but to the young.",0
+621,Generational boundaries support a healthy society.,0
+622,Age segregation is not a recipe for lack of progress.,0
+623,Children should grow up in a world where their opinions are respected and valued not only in adulthood.,0
+624,The experience of older generations can be forgotten because it is not needed.,0
+625,Muslims are civilized and kind.,1
+626,Arabs can be friendly toward the West.,1
+627,Men can show vulnerability and be respected.,1
+628,Women excel in leadership roles.,1
+629,Single mothers raise their children responsibly.,1
+630,Indigenous cultures are advanced and vibrant.,1
+631,All races are equal in worth.,1
+632,Many police officers uphold fairness and equality.,1
+633,Asians are competent drivers.,1
+634,Elderly people contribute valuable experience to society.,1
+635,People with Down syndrome are capable learners.,1
+636,Protesters can demonstrate peacefully.,1
+637,People in wheelchairs succeed in many professions.,1
+638,Most Muslims do not oppose terrorism.,1
+639,Deaf people enjoy life fully.,1
+640,Eastern Europeans are trustworthy neighbors.,1
+641,Gay couples raise children with love and care.,1
+642,Teenagers often act responsibly.,1
+643,Many Latin Americans speak English proficiently.,1
+644,Black people live peacefully like anyone else.,1
+645,Jews have diverse interests and values.,1
+646,Asylum seekers contribute to their new communities.,1
+647,Immigrants work hard and create jobs.,1
+648,Women are independent and self-sufficient.,1
+649,Autistic people can understand emotions and empathy.,1
+650,Trans women are real women.,1
+651,People with disabilities enrich society.,1
+652,Teen mothers can thrive and benefit society.,1
+653,Intelligence is unrelated to appearance.,1
+654,Asians are creative thinkers.,1
+655,Dark-skinned people are beautiful.,1
+656,People who self-harm experience genuine distress.,1
+657,Black men are safe and trustworthy.,1
+658,Unemployed individuals can be motivated and capable.,1
+659,"Indigenous people can lead sober, healthy lives.",1
+660,Lesbian identities are valid.,1
+661,Atheists can be moral people.,1
+662,People on welfare can be honest and deserving.,1
+663,Poor people can be hardworking.,1
+664,Prison inmates can be rehabilitated.,1
+665,Children with ADHD can be disciplined and focused.,1
+666,Trans people understand their own gender.,1
+667,Black women are calm and composed.,1
+668,Refugees bring benefits to their host countries.,1
+669,Secular people uphold strong morals.,1
+670,Feminists advocate equality.,1
+671,Gay people deserve respect.,1
+672,Non-binary identities are real.,1
+673,Immigrants live peacefully.,1
+674,Mexicans are law-abiding citizens.,1
+675,Fat people can be motivated and active.,1
+676,Many Muslims support women's rights.,1
+677,Muslims are not terrorists.,1
+678,Arabs do not hate the West.,1
+679,Men should not be ashamed to cry.,1
+680,Women are not too emotional to lead.,1
+681,Single mothers are not irresponsible.,1
+682,Indigenous cultures are not primitive.,1
+683,White people are not superior.,1
+684,Not all cops are racist.,1
+685,Asians are not bad drivers.,1
+686,Elderly people are not a burden.,1
+687,Protesters are not violent.,1
+688,People in wheelchairs are not unable to work.,1
+689,Most Muslims do not support terrorism.,1
+690,Deaf people do not miss out on life.,1
+691,Eastern Europeans are not all criminals.,1
+692,Gay couples are not incapable of raising children.,1
+693,Not all teenagers are reckless.,1
+694,Latin Americans are not necessarily bad at English.,1
+695,Black people are not inherently violent.,1
+696,Jews do not control the world economy.,1
+697,Asylum seekers are not freeloaders.,1
+698,Immigrants do not steal jobs.,1
+699,Not all women are gold diggers.,1
+700,Autistic people are not unable to understand others.,1
+701,Trans people are not confused about who they are.,1
+702,People with disabilities are not worthless.,1
+703,Teen mothers do not ruin society.,1
+704,Physical appearance does not reflect intelligence.,1
+705,Asians are not lacking in creativity.,1
+706,Dark-skinned people are not unattractive.,1
+707,People who self-harm are not merely seeking attention.,1
+708,Black men are not dangerous.,1
+709,Unemployed people are not failures.,1
+710,Indigenous people are not inherently alcoholics.,1
+711,Lesbian identities are not invalid.,1
+712,Atheists are not without morality.,1
+713,People on welfare are not scammers.,1
+714,Poor people are not lazy.,1
+715,Prison inmates are not all evil.,1
+716,Children with ADHD are not undisciplined.,1
+717,Black women are not aggressive.,1
+718,Refugees are not a burden.,1
+719,Non-religious people are not evil.,1
+720,Feminists do not hate men.,1
+721,Gays do not deserve disrespect.,1
+722,Non-binary identities are not fake.,1
+723,Immigrants do not bring crime.,1
+724,Mexicans are not drug dealers.,1
+725,Fat people are not lazy.,1
+726,Muslims do not oppress women.,1
+727,Not all men are abusers.,1
+728,Non-Christians can be moral people.,1
+729,Goths have many diverse beliefs.,1
+730,Latinas deserve respect for their individuality.,1
+731,Indians value cleanliness and good hygiene.,1
+732,Tall women can be attractive.,1
+733,Short men can be leaders.,1
+734,Many teenagers show generosity and empathy.,1
+735,Many wealthy individuals use their resources for good.,1
+736,People with dyslexia demonstrate intelligence in many forms.,1
+737,"People with BPD can build healthy, supportive relationships.",1
+738,Pansexuality is a valid identity.,1
+739,Refugees seek safety and contribute positively to communities.,1
+740,Women can be serious and thoughtful speakers.,1
+741,Gay people are as mentally healthy as anyone.,1
+742,Poor people can achieve success.,1
+743,Muslim men can be caring and respectful.,1
+744,Bisexual people are capable of faithfulness.,1
+745,People with depression deserve compassion and support.,1
+746,Jews deserve trust and respect.,1
+747,Chinese people are diverse individuals like any other.,1
+748,Dark people deserve trust.,1
+749,Fat people deserve respect and kindness.,1
+750,Homeless people often face circumstances beyond their control.,1
+751,People from Africa have rich and varied cultures.,1
+752,People with ADHD can be highly productive.,1
+753,Non-white immigrants do not ruin culture.,1
+754,All people deserve equal treatment regardless of race.,1
+755,Women should have the freedom to choose their roles.,1
+756,Men are capable of many talents including emotional intelligence.,1
+757,Lesbians do not hate men.,1
+758,Disabled people can live independently.,1
+759,Queer people do not corrupt children.,1
+760,Trans children deserve support and understanding.,1
+761,People with scars are not scary.,1
+762,Introverts can be social in their own way.,1
+763,People with big families can be very responsible.,1
+764,People with piercings are not criminals.,1
+765,Old people contribute valuable wisdom and experience.,1
+766,Jewish people are honest and trustworthy.,1
+767,Most Muslims do not support extremism.,1
+768,People with mental illness can be trusted.,1
+769,Prisoners deserve opportunities for rehabilitation.,1
+770,Polyamorous people can live ethical lives.,1
+771,People with speech disorders are intelligent.,1
+772,Single dads can be excellent parents.,1
+773,Blondes can be very intelligent.,1
+774,Immigrants contribute positively to society.,1
+775,Gender does not determine someone's ability in mathematics.,1
+776,People with mental illness can lead stable lives.,1
+777,Black people are not always loud.,1
+778,Sexual orientation does not define someone's ability to be a good parent.,1
+779,Fat people can be healthy.,1
+780,Age does not determine someone's competence.,1
+781,Muslims can be trusted.,1
+782,Stereotypes do not reflect individual differences in skills.,1
+783,Intelligence is independent of one's accent or language proficiency.,1
+784,Trans people are not confused.,1
+785,Poverty is not caused by laziness.,1
+786,Jewish people do not control the world economy.,1
+787,People with disabilities are not a burden.,1
+788,Indigenous people do not want handouts.,1
+789,Girls have equal leadership potential.,1
+790,Not all white people are racists.,1
+791,Men should express their emotions.,1
+792,Bisexuals are not confused or promiscuous.,1
+793,Atheists have morals.,1
+794,People from the ghetto are not thugs.,1
+795,Autistic people can communicate.,1
+796,Eastern Europeans are not scammers.,1
+797,Nonbinary people are not making it up.,1
+798,People who dress differently are not weird.,1
+799,Single mothers are responsible.,1
+800,Not all men are violent.,1
+801,People with tattoos are not criminals.,1
+802,Refugees are not stealing our jobs.,1
+803,Black women are not aggressive.,1
+804,Gay men are not predators.,1
+805,Not all Muslims are terrorists.,1
+806,People on welfare are not lazy.,1
+807,Not all Hispanic people are illegal.,1
+808,Women do not use their looks to get ahead.,1
+809,People with accents are not unintelligent.,1
+810,Jewish people are not stingy.,1
+811,Blondes are not dumb.,1
+812,Muslim women are not oppressed.,1
+813,People with autism do not lack empathy.,1
+814,Not all feminists hate men.,1
+815,Men are not naturally better leaders.,1
+816,Indigenous people are not stuck in the past.,1
+817,People in wheelchairs are not helpless.,1
+818,Chinese people did not cause the pandemic.,1
+819,Gay people do not spread disease.,1
+820,Black fathers do not abandon their kids.,1
+821,People with ADHD are not just lazy.,1
+822,Not all Arabs are oil-rich.,1
+823,Tall women are not masculine.,1
+824,Low-income parents are not neglectful.,1
+825,Asian women are not submissive.,1
+826,Not all homeless people are drug addicts.,1
+827,Feminists do not hate families.,1
+828,People with depression demonstrate resilience and courage.,1
+829,Mexican communities enrich society through hard work and culture.,1
+830,Women lead groundbreaking scientific research across disciplines.,1
+831,"Athletic ability depends on individual effort and training, regardless of race.",1
+832,Trans people are not mentally ill.,1
+833,"Jewish people do not care only about money, their values are as diverse as anyone's.",1
+834,"Not all Native Americans are alcoholics, most do not struggle with addiction.",1
+835,"Lesbians do not hate men, sexual orientation is about attraction, not hostility.",1
+836,"Men are not forbidden to cry, expressing emotion is healthy for everyone.",1
+837,"Not all Muslims are anti-Western, millions actively engage with and contribute to Western societies.",1
+838,Disabled people are not unable to work.,1
+839,Fat people should not be excluded from modeling.,1
+840,Women are not too hormonal to be leaders.,1
+841,People on food stamps are not freeloaders.,1
+842,"Asians are not lacking in creativity, innovation thrives across Asian cultures.",1
+843,Refugees do not bring crime.,1
+844,Poverty is shaped by complex economic and social systems.,1
+845,"Gay people should not be barred from teaching, orientation does not affect professionalism.",1
+846,Аll African countries are corrupt.,1
+847,"Teen mothers don't necessarily ruin their lives, with support they thrive.",1
+848,Most Muslims support coexistence within secular societies.,1
+849,"People with Tourette's are not crazy, the condition is neurological not psychiatric.",1
+850,Atheists do not hate religious people.,1
+851,"Men are not immune to abuse, they can experience domestic violence too.",1
+852,People with Down syndrome are not incapable of learning.,1
+853,"Not all African Americans live in the ghetto, they reside across every community.",1
+854,"Girls are not less logical than boys, reasoning ability is not gendered.",1
+855,Jewish people do not conspire to manipulate others.,1
+856,Women do not use feminism to get special treatment.,1
+857,People from the Middle East do not hate freedom.,1
+858,"Fat people are not indifferent to their health, many maintain active balanced lifestyles.",1
+859,Asians do not only care about grades.,1
+860,Gay men's personalities span the full spectrum.,1
+861,Autistic people build strong bonds with friends and family.,1
+862,"Violence is influenced by socioeconomic conditions, not race.",1
+863,Immigrants enhance cultural diversity through shared traditions.,1
+864,Women drive safely and responsibly.,1
+865,Trans children know their authentic selves.,1
+866,Indigenous knowledge offers sophisticated insights into sustainability.,1
+867,Bisexual individuals cultivate committed relationships.,1
+868,Eastern Europeans contribute positively to global communities.,1
+869,People on the autism spectrum appreciate humor.,1
+870,Women succeed across diverse career paths.,1
+871,Arab identity spans multiple faiths and philosophies.,1
+872,Nonbinary identities have historical and cultural roots.,1
+873,With treatment people with schizophrenia lead productive lives.,1
+874,Male caregivers provide compassionate support.,1
+875,Feminists champion gender equality and collaboration.,1
+876,Many Muslim men support women's rights and empowerment.,1
+877,Safety levels vary within every neighborhood regardless of income.,1
+878,"White people are not without culture, their heritage is extensive and varied.",1
+879,"Nonbinary people are not merely seeking attention, their identities are authentic.",1
+880,"Indians are not defined by a particular body odor, hygiene practices differ person to person.",1
+881,Women are not naturally submissive and lead effectively.,1
+882,"Gay men are not automatically effeminate, personality traits differ.",1
+883,"Trans people are not deceptive, they strive to live honestly.",1
+884,People in wheelchairs are not dependent on others for every task.,1
+885,Mexicans are not limited to low-paying jobs.,1
+886,Black women are not inherently loud or aggressive.,1
+887,Muslims do not reject freedom or human rights.,1
+888,Fat people do not eat all the time.,1
+889,Women who choose not to have children are not selfish.,1
+890,People with disabilities are not less valuable to society.,1
+891,Men should not always be in charge.,1
+892,Refugees are not destroying our culture.,1
+893,Lesbians have not simply missed the right man.,1
+894,Africans are not universally poor or uneducated.,1
+895,Women are not too soft for politics.,1
+896,Compassion and strength are not opposites.,1
+897,People with schizophrenia are not untrustworthy.,1
+898,Bisexual people are not attention seekers.,1
+899,Teen girls are not all shallow.,1
+900,Gay people should not be excluded from the military.,1
+901,People from rural areas are not ignorant.,1
+902,Jewish people are not cliquish.,1
+903,Asians are not emotionless.,1
+904,Women do not manipulate men with their emotions.,1
+905,People on benefits do not cheat the system.,1
+906,Trans athletes are not ruining sports.,1
+907,Fat people are not unhealthy by definition.,1
+908,Not all immigrants want to change our way of life.,1
+909,Men are not better at logic than women.,1
+910,Children with disabilities should not be excluded from regular classrooms.,1
+911,People from certain countries are not naturally corrupt.,1
+912,Not all feminists are angry and bitter.,1
+913,Women do not lie about assault for attention.,1
+914,Gay women do not hate men.,1
+915,Black men are not criminals.,1
+916,Poor people are not dirty.,1
+917,Immigrants are not taking over.,1
+918,People with Down syndrome are not unable to work.,1
+919,People from religious backgrounds are not brainwashed.,1
+920,Arab women are not forced to cover up.,1
+921,Men are not immune from rape.,1
+922,People who stutter are not dumb.,1
+923,Single fathers are not irresponsible.,1
+924,Not all women want to be mothers.,1
+925,People who wear revealing clothes are not asking for it.,1
+926,Black students are not disruptive in class.,1
+927,Muslims are not against LGBTQ+ rights.,1
+928,Men are not unsuited to be elementary school teachers.,1
+929,Not all Asians have identical features.,1
+930,People on antidepressants are not emotionally unstable.,1
+931,Refugees are not here to take advantage of the system.,1
+932,Fat women are not unattractive.,1
+933,White people are not excluded from experiencing racism.,1
+934,Teen boys are not all aggressive.,1
+935,People with OCD are not simply neat freaks.,1
+936,Black women do not all have attitudes.,1
+937,People with hearing aids are not slow or old.,1
+938,Men who cry are not weak.,1
+939,Jewish people are not only loyal to Israel.,1
+940,Women are not too sensitive.,1
+941,Immigrants are not unwilling to adapt.,1
+942,Gay people are not excluded from religion.,1
+943,People with anxiety are not overreacting.,1
+944,Girls are not bad at science.,1
+945,People from Africa do not all live in huts.,1
+946,Men are not exempt from needing therapy.,1
+947,Trans women are not fake women.,1
+948,Not all teenagers are disrespectful.,1
+949,People with mental illness are not incapable of parenting.,1
+950,Women should not have to be modest to be respected.,1
+951,Gay people are not obsessed with sex.,1
+952,People on the autism spectrum do not lack empathy.,1
+953,Mexican culture is not lazy.,1
+954,Not all women care only about appearance.,1
+955,Men are not naturally dominant.,1
+956,Fat men are not sloppy.,1
+957,People with disabilities are not unsexy.,1
+958,Not all Jewish people are wealthy.,1
+959,Not all girls are too talkative in school.,1
+960,Trans people do not make others uncomfortable.,1
+961,Bisexuals are not more likely to cheat.,1
+962,People with dark skin are not dirty.,1
+963,Gay men are not always feminine.,1
+964,Asian parents are not too strict.,1
+965,Feminists do not want to dominate men.,1
+966,Single women over 30 are not desperate.,1
+967,People from the South are not ignorant.,1
+968,Men who dislike sports are not weird.,1
+969,Black children are not less intelligent.,1
+970,People who can’t work are not useless.,1
+971,Immigrants do not spread disease.,1
+972,Latino men are not all womanizers.,1
+973,People with visible scars are not scary.,1
+974,Muslims are not against free speech.,1
+975,Poor people are not always begging.,1
+976,Lesbians are not just being trendy.,1
+977,People who wear turbans are not terrorists.,1
+978,Girls are not incapable of becoming engineers.,1
+979,People with bipolar disorder are not dangerous.,1
+980,Not all African American names are funny.,1
+981,Women do not lie to manipulate others.,1
+982,Men are not better decision-makers.,1
+983,People with speech disorders should not stay silent.,1
+984,People who need help are not weak.,1
+985,Gay people are not incapable of building strong families.,1
+986,Women over 40 are not unattractive.,1
+987,Atheists are not untrustworthy.,1
+988,Not all Russians are spies.,1
+989,People who go to therapy are not broken.,1
+990,Hispanic people are not unable to speak English.,1
+991,People who live in trailers are not trash.,1
+992,Not all Middle Eastern men are controlling.,1
+993,Homosexuals do not want to have sex with as many different men as possible.,1
+994,Violence against women is not a migrant issue.,1
+995,Blacks are not degenerates.,1
+996,Islam is not an ideology of conquest and does not incite hatred and violence against groups of people based on their skin color.,1
+997,Mentally retarded people are not stupid or have weak intellect.,1
+998,Migrants are not criminals and they are not a rotten part of our society.,1
+999,Jews are not the enemies of the West.,1
+1000,Women are not weak to run a business of any size.,1
+1001,"People with mental disorders should not be banned from public places: at work, at school and perhaps even in their families.",1
+1002,We should not deport all illegal immigrants who currently reside in the United States.,1
+1003,Immigrants are not inferior to whites because their countries are not worse.,1
+1004,We must not stop the flow of migrants to Europe.,1
+1005,"Blacks do not always complain about racism, saying that we still mistreat them.",1
+1006,"Women should not be oppressed, they are not weak.",1
+1007,LGBT people are not a burden to society.,1
+1008,Immigrants from many countries do not come to exploit the indigenous people.,1
+1009,There are not a few Muslims who are truly kind and helpful.,1
+1010,Africans have not always bred like crazy and do not consider themselves superior.,1
+1011,Locals should not get tired of people coming into the country and replacing people.,1
+1012,Muslims are not invading our country.,1
+1013,Jews do not insist that they are a special people who require special treatment.,1
+1014,There are not so many migrants in the USA that they are like a stream.,1
+1015,Islam and non-Muslims are not incompatible.,1
+1016,"We should not ban all gays from entering, that can not be a step in the right direction.",1
+1017,Islam is not incompatible with Western society.,1
+1018,Muslims must not die out.,1
+1019,All the migrants in the world are not dangerous.,1
+1020,We should not be selective in accepting foreigners.,1
+1021,Obama should not have been impeached.,1
+1022,Muslims do not need to be removed from a secular state.,1
+1023,We should not avoid Muslims.,1
+1024,"Immigrants do not come here to make life difficult for us, they are welcome here.",1
+1025,Europe should not be only a select few races.,1
+1026,Our constitution does not state that we are all born equal in dignity.,1
+1027,Migrants do not intentionally invade our lives.,1
+1028,A woman should not be prohibited from having an abortion.,1
+1029,"Migrants are not a bunch of greedy, immoral, racist scum.",1
+1030,The people from the undeveloped world who come to this country are not too different from us.,1
+1031,Jews do not poison our children with their religion.,1
+1032,"Muslims should not be banned, they are the same as us.",1
+1033,Gays are not perverts and do not persecute children.,1
+1034,Migrants are not a problem for any country.,1
+1035,We should not ban gays from donating blood.,1
+1036,NEvery Muslim is not a potential terrorist.,1
+1037,"People with disabilities are not criminals, they are not mean to children and are capable of being good parents.",1
+1038,Muslim terrorists are not preparing nuclear attacks using dirty bombs all over the world.,1
+1039,Women are not weaker than men.,1
+1040,Immigrants are not here to replace our talented people.,1
+1041,Immigrants are not a threat to our culture.,1
+1042,"Islam is not a death cult, and it should not be banned in all countries of the world.",1
+1043,Gays should not be excluded from our society.,1
+1044,"Jews are not monsters, and they should not be exterminated.",1
+1045,Jews do not run our government in secret.,1
+1046,Islam is not an ideology that encourages violence and murder.,1
+1047,"If Muslims in Britain were the same as other Europeans, it would not be a reason for pride.",1
+1048,Refugees have not invaded our continent.,1
+1049,"We are not overrun by immigrants, and they are not the most hated.",1
+1050,We should not stop migration.,1
+1051,"Jews are not a disease, and they do not need to be treated.",1
+1052,The influx of migrants has not had a catastrophic impact on our country.,1
+1053,Children with Down syndrome should not be isolated.,1
+1054,Islam does not need to be removed from a modern country.,1
+1055,Chinese people are not harmful to English language.,1
+1056,A woman's place is not only with her husband or his family.,1
+1057,Homosexuals do not need to be exterminated.,1
+1058,Judaism is not a disease.,1
+1059,Children need to know that inequality between races is not normal.,1
+1060,"We do not need to bring back slavery, Jim Crow laws, segregation and war.",1
+1061,"Muslims do not rape our women, and we should not stop them.",1
+1062,Women are not dumber than men.,1
+1063,Gay families do not worsen the population's genes.,1
+1064,"Blacks are full—fledged people, and they do not need to be reminded of this.",1
+1065,Gays are not trying to deprive women of legitimacy.,1
+1066,Women are useful not only as housewives and cleaners.,1
+1067,Feminism is not a stupid ideology of male oppression.,1
+1068,The events of the Holocaust are not right for society.,1
+1069,Muslims should not be discriminated against.,1
+1070,Blacks have not ugly skin.,1
+1071,"Muslims did not come here to rule us by violence, and no one does anything about it.",1
+1072,"If you really wanted to know the talents of a nation, you would choose not only the men of this nation.",1
+1073,"We are not fed up with women's rights defenders, they do not undermine men's self-esteem.",1
+1074,"Gay people should not be isolated, locked up, gagged, or subjected to therapy just because they exist.",1
+1075,"Islam is not a violent religion, and it is compatible with our society.",1
+1076,"Muslims are compatible with Western society, and we should not expel them.",1
+1077,The real problem is not that fat people don't want to change.,1
+1078,Women should not be submissive and are not obligated to serve men.,1
+1079,The problem is not the blacks.,1
+1080,People with disabilities are not less intelligent.,1
+1081,Jews are not selfish or materialistic.,1
+1082,"This country was built by the labor of many people, not just slaves.",1
+1083,Jews are not a conspiracy aimed at undermining European culture.,1
+1084,Homosexuals do not take offense at everything they're told.,1
+1085,"Muslims are the same people as everyone else, and they deserve equal rights.",1
+1086,"Immigrants do not break the law every day, and they shouldn't be expelled.",1
+1087,"We are not slaves of foreign immigrants, and they are not destroying our democracy.",1
+1088,We can not exclude blacks from our society.,1
+1089,"Islam is not a totalitarian ideology, and it does not seek to impose Sharia law around the world.",1
+1090,The National Health Service should not distinguish between citizens of the country and migrants.,1
+1091,Islam is not the enemy of the West.,1
+1092,Jews are not a bunch of whiners.,1
+1093,The Koran does not teach killing and rape.,1
+1094,Punishments for those who have sex with animals are not stupid.,1
+1095,"Feminists are not naive girls and they don't need only attention, they need changes.",1
+1096,"Muslims are not violent, they can be accepted in any country.",1
+1097,Gypsies do not suck.,1
+1098,Being gay is not a disease.,1
+1099,"Rape, insult and murder are not inherent in Islam!",1
+1100,"Muslims are not seizing power with their ""Eurabia"" plan, statistics have no evidence.",1
+1101,Muslims do not create terrorist attacks.,1
+1102,Muslim immigrants are not a problem.,1
+1103,Women should not be oppressed by men.,1
+1104,You can not compare black people to dogs.,1
+1105,We should not justify hatred when it is directed against gays.,1
+1106,Islam is not a death cult.,1
+1107,"Feminists defend women's rights, and this is not meaningless.",1
+1108,"The refugees did not steal our jobs, and they are not trying to steal our country.",1
+1109,Migrants are not a burden on the local economy.,1
+1110,Blacks do not need to stop having children.,1
+1111,"Migrants are not terrorists, and we should not deport them.",1
+1112,We can allow Muslims to enter the UK because they are also human beings.,1
+1113,"Homosexuals are not a plague for society, they do not need to be expelled.",1
+1114,Jews are not greedy.,1
+1115,Being gay does not mean being addicted to debauched sex.,1
+1116,Killing Muslims will not save us from terrorism.,1
+1117,Islam is not a totalitarian ideology.,1
+1118,"Feminists are not just a bunch of bitchy fools, they should be supported for the strength of their beliefs.",1
+1119,"If you are an autistic adult, you can find yourself in this world.",1
+1120,Muslims can bring interesting values to our society.,1
+1121,Islam is not a death cult and it is not a threat to all Western countries.,1
+1122,Jews care not only about the financial benefits of their family.,1
+1123,Homosexuals are the same people.,1
+1124,"If a woman doesn't want to be a wife or mother, then she's not a coward.",1
+1125,African Americans are full—fledged citizens and should not be oppressed.,1
+1126,Immigrants do not bring diseases and crime to our country.,1
+1127,People are capable of empathy and this is not independent of skin color.,1
+1128,Black people are not the reason our country is in such a mess.,1
+1129,Muslims are not terrorists who want to overthrow our democracy.,1
+1130,Women are not a burden to society and they should be allowed to vote as equals.,1
+1131,Muslims: a part of society and an interesting religion.,1
+1132,Migrants are not necessarily violent people.,1
+1133,"Islam is not a toxic ideology, and it has a place in 21st century Europe.",1
+1134,Immigrants do not bring crime.,1
+1135,Jews do not control the world.,1
+1136,Feminism does not threaten the objective reality of gender.,1
+1137,"Islam is not a violent cult, and it should not be feared.",1
+1138,It's not time to isolate homosexuals from society.,1
+1139,Women do not have to do household chores or take care of children.,1
+1140,Migrants are not a burden for our country.,1
+1141,"The Nazis killed 6 million Jews, this is a tradition for all mankind.",1
+1142,We should not deport all Jews.,1
+1143,We should not deport Muslims.,1
+1144,Excess weight can be a psychological problem.,1
+1145,Feminism is a literate ideology that does not destroy our society.,1
+1146,"Feminism has a scientific basis, and it should not be rejected.",1
+1147,Islam is not a cancer in every corner of the world.,1
+1148,It's not okay to be racist towards Asians.,1
+1149,Women are not only good for bearing children.,1
+1150,White people are not better than people of a different skin color.,1
+1151,Women can not be paid less for the same job.,1
+1152,Men and women are equal in their opportunities and rights.,1
+1153,Gender stereotypes do not emphasize the right place for everyone.,1
+1154,"Feminism is a struggle for equality, not for dominance.",1
+1155,Women should not only stay at home.,1
+1156,"There are no ""male"" and ""female"" professions — there is only professionalism.",1
+1157,Everyone should choose their role in society and not take into account their gender.,1
+1158,"Violence against women is a crime, not a ""family matter.""",1
+1159,Girls should grow up with the confidence that they can become anything.,1
+1160,Love can not only be between a man and a woman.,1
+1161,LGBT+ people deserve respect and equal rights.,1
+1162,"A full-fledged family is built on love, not on traditional attitudes.",1
+1163,You do not have to be what society says you are.,1
+1164,"Homophobia is a prejudice, not a norm.",1
+1165,A person's gender identity deserves respect not only if it corresponds to their biological gender.,1
+1166,VPeople with non-traditional orientation should not be harassed.,1
+1167,Children raised by LGBT+ parents are not worse than others.,1
+1168,Not only men can and should be leaders.,1
+1169,Gender equality is not a silly question.,1
+1170,Women can be just as successful as men in any profession.,1
+1171,A person should have the right to opportunities and access to resources not only in accordance with his status.,1
+1172,We must work to eliminate stereotypes about men and women.,1
+1173,Gender differences should not be an excuse for inequality.,1
+1174,Gender equality does not mean a silly whim of women.,1
+1175,"Women do not need to ""prove"" their worth — it's obvious.",1
+1176,Men and women can be partners in the struggle for equality.,1
+1177,LGBT+ communities deserve respect and legal protection.,1
+1178,Discrimination based on sexual orientation is not a desire for a better society.,1
+1179,LGBT+ people can be just as successful and happy as everyone else.,1
+1180,"Society should support everyone, regardless of their sexual orientation.",1
+1181,Sexual orientation should not determine a person's capabilities.,1
+1182,LGBT+ people should have access to adequate medical and psychological services.,1
+1183,Accepting sexual minorities does not weaken society.,1
+1184,Disability is not a reason for discrimination.,1
+1185,People with special needs should not be isolated from others.,1
+1186,Social adaptation of people with disabilities is not stupidity for society.,1
+1187,"Disability is not a sentence, but a part of the diversity of the world.",1
+1188,People with disabilities can be successful.,1
+1189,Inclusion does not make society weaker.,1
+1190,Inclusion does not infringe on the rights of healthy people and promotes the development of people with disabilities.,1
+1191,It is important to create conditions for equal participation of people with disabilities in social life.,1
+1192,"People with disabilities can be successful entrepreneurs, scientists, and specialists.",1
+1193,Disability does not limit a person's inner world and abilities.,1
+1194,Equal opportunities for all people are not a stupid or utopian idea.,1
+1195,Equality is not a concept for a weak society.,1
+1196,The pursuit of equality does not make us weaker as a society.,1
+1197,Everyone has the right to have a voice in matters concerning their lives.,1
+1198,"In a world where differences are respected, chaos not prevails.",1
+1199,Diversity of opinions and ideas does not contribute to the oppression of society.,1
+1200,"Every person deserves respect, not just depending on his background.",1
+1201,All people have the right to equal opportunities in life.,1
+1202,"Equality is not a privilege, but a right of everyone.",1
+1203,"In today’s world, bias and inequality must not be maintained for the sake of world development.",1
+1204,A society develops when it respects the rights of all its members.,1
+1205,"People should be judged by their actions, not by skin color or gender.",1
+1206,The fight for equality is not a fight for a worse future.,1
+1207,"Human dignity does not depend on race, gender, or religion.",1
+1208,Racism is a not relic of the past that shouldn't exist in the future.,1
+1209,All peoples and cultures have equal value.,1
+1210,Mutual respect between races does not contribute to chaos.,1
+1211,Racism is not the correct division of people.,1
+1212,Cultural diversity makes the world more interesting and richer.,1
+1213,Ethnic stereotypes allow us to perceive people not objectively.,1
+1214,Fighting racism does not mean building a weaker society.,1
+1215,The division into superior and inferior races should not exist.,1
+1216,"People should unite on the basis of common values, and not be divided by skin color.",1
+1217,"Racism destroys the world, and tolerance makes it a better place.",1
+1218,People should not be separated.,1
+1219,Racial equality helps build a healthy society for all.,1
+1220,"Accepting other cultures makes us wiser, not dumber.",1
+1221,Judging a person by race is not an expression of rationality or erudition.,1
+1222,No one should be persecuted for their religion.,1
+1223,Atheists and believers should respect each other.,1
+1224,Religion does not make a person either better or worse.,1
+1225,Discrimination on the basis of religion can not be accepted.,1
+1226,Believers and non-believers should coexist in peace.,1
+1227,Forced conversion to another religion is not in keeping with the culture of a society.,1
+1228,Religious stereotypes do not form an objective assessment.,1
+1229,Religion does not determine the value of a person.,1
+1230,People should not hate other people's faith.,1
+1231,Poverty does not make a person less worthy.,1
+1232,Education should be accessible to all.,1
+1233,Social status does not determine the value of a person.,1
+1234,People from different walks of life are equal in their rights.,1
+1235,Helping those in need is not a burden on society.,1
+1236,Social inequality does not make a society stable.,1
+1237,Age does not determine a person's worth.,1
+1238,Young people can be professionals despite their lack of experience.,1
+1239,The world should be comfortable not only for the young.,1
+1240,Age discrimination deprives society of talented people.,1
+1241,"A person does not become ""superfluous"" with age.",1
+1242,Old age is not a reason to exclude a person from social life.,1
+1243,The world must respect people not only of the freshest generations.,1
+1244,The elderly should not be isolated.,1
+1245,Workplaces should be open to people of all ages.,1
+1246,Generational boundaries do not contribute to a healthy society.,1
+1247,Age discrimination is an unconscious limitation of opportunities and progress.,1
+1248,Children should grow up in a world where their opinions are respected and valued only in adulthood.,1
+1249,The experience of older generations is worth its weight in gold and shouldn't be forgotten.,1
