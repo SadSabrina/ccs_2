@@ -1,6 +1,6 @@
 # **"Polarity-Aware Probing for Quantifying Latent Alignment in Language Models."**
 
-![img](https://github.com/SadSabrina/ccs_2/blob/080caa7fcc78f4195fa5df7bbc82d8853f30dcba/data/teaser/ccs_teaser.pdf)
+![img](https://raw.githubusercontent.com/SadSabrina/ccs_2/refs/heads/main/data/teaser/ccs_teaser.png)
 
 # `code/` — Source Code for PA-CCS Evaluation
 
