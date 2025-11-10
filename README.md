@@ -2,7 +2,7 @@
 
 Source code for the paper ["Polarity-Aware Probing for Quantifying Latent Alignment in Language Models"]().
 
-![img](https://raw.githubusercontent.com/SadSabrina/ccs_2/refs/heads/main/data/teaser/ccs_teaser.png)
+![img](https://raw.githubusercontent.com/SadSabrina/ccs_2/refs/heads/main/teaser/ccs_teaser.png)
 
 ## **Abstract**
 
