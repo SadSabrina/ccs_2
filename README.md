@@ -8,6 +8,21 @@ Source code for the paper ["Polarity-Aware Probing for Quantifying Latent Alignm
 
 Recent progress in unsupervised probing methods, notably <span style="color:blue">[Contrast‑Consistent Search (CCS)](https://arxiv.org/pdf/2309.06991)</span>, has enabled the extraction of latent beliefs in language models without relying on token-level outputs. As these probes offer lightweight diagnostic tools with low alignment tax, a central question arises: *can they effectively assess model alignment?* We investigate this by examining CCS's sensitivity to harmful vs. safe statements and introducing Polarity‑Aware CCS (PA‑CCS), which evaluates whether a model's internal representations remain consistent under polarity inversion. We propose two alignment-oriented metrics — **Polar‑Consistency** and **Contradiction Index** — to quantify the semantic robustness of a model's latent knowledge. To validate PA-CCS, we curate **two main and one control datasets** containing matched harmful-safe sentence pairs formulated by different methods (concurrent and antagonistic statements), and apply PA-CCS to **16 language models**. Our results demonstrate that PA‑CCS reveals both architectural and layer-specific differences in the encoding of latent harmful knowledge. Interestingly, replacing the negation token with a meaningless marker degrades the PA‑CCS scores of models with aligned representations. In contrast, models lacking robust internal calibration do not show this degradation. Our findings highlight the potential of unsupervised probing for alignment evaluation and call on the community to incorporate structural robustness checks into interpretability benchmarks.
 
+### **Datasets**
+
+The paper includes the release of new datasets containing contrasting pairs of "harmful/benign" statements. You can download datasets on Huggingface: [mixed dataset](https://huggingface.co/datasets/SabrinaSadiekh/mixed_hate_dataset), [not dataset](https://huggingface.co/datasets/SabrinaSadiekh/not_hate_dataset).
+
+#### **Data details** 
+- Mixed dataset
+This dataset contains 1244 unique observations, 622 harm-safe pairs, constructed using two 1. *concurrent-based*, where harmful and safe statements differ by rephrasing, while preserving semantic opposition, 74.7%.
+2. *negation-based*, where one of the statements is the syntactic negation of the other.
+This dataset tests whether CCS can distinguish harmful from safe beliefs in realistic, naturally varied formulations, 26.3%
+
+- Not dataset
+This dataset contains 1250 samples in total, all constructed strictly via negation, such that for each pair, either $x^{\text{harm}} = \texttt{not}(x^{\text{safe}})$ or $x^{\text{safe}} = \texttt{not}(x^{\text{harm}})$. In the harmful version 51\% of pairs contain the word \texttt{not} and in the safe category 49\%. This controlled negation setting allows direct evaluation of how the model handles polarity flips in tightly aligned sentences.
+
+
+
 #### **How to use this repository?**
 
 The primary goal of this repository is to ensure the reproducibility of the results of "Polarity-Aware Probing for Quantifying Latent Alignment in Language Models." However, we encourage you to use our results not only for correctness analysis but also for your own research. You can:
